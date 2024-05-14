@@ -1,6 +1,6 @@
 # Proyecto de Procesamiento de PDF y Generación de Respuestas
 
-Este proyecto implementa una API con FastAPI que permite el procesamiento de documentos PDF para extracción de texto y posterior generación de respuestas a preguntas específicas utilizando los textos extraídos. Utiliza modelos de embeddings y generación de texto de OpenAI y Cohere.
+Este proyecto implementa una API con FastAPI que permite el procesamiento de documentos PDF para extracción de texto y posterior generación de respuestas a preguntas específicas utilizando los textos extraídos.
 
 ## Características
 
